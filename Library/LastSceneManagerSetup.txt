@@ -1,0 +1,9 @@
+sceneSetups:
+- path: Assets/mainmenu.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/newTest.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
